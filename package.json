@@ -2,7 +2,7 @@
   "name": "faraway",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikitys.github.io/FarawayGG",
+  "homepage": "https://nikitys.github.io/FarawayGG/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
