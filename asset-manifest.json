@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FarawayGG/static/css/main.e6c13ad2.css",
+    "main.js": "/FarawayGG/static/js/main.75dbc859.js",
+    "static/js/453.557ff701.chunk.js": "/FarawayGG/static/js/453.557ff701.chunk.js",
+    "index.html": "/FarawayGG/index.html",
+    "main.e6c13ad2.css.map": "/FarawayGG/static/css/main.e6c13ad2.css.map",
+    "main.75dbc859.js.map": "/FarawayGG/static/js/main.75dbc859.js.map",
+    "453.557ff701.chunk.js.map": "/FarawayGG/static/js/453.557ff701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75dbc859.js"
+  ]
+}
